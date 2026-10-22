@@ -1,3 +1,7 @@
+> **Moved.** Stars Reborn is now developed in a single monorepo:
+> **https://github.com/szarta/stars-reborn** — this component lives under `schemas/`.
+> This repository is archived and read-only; its full history was preserved in the monorepo.
+
 # Stars Reborn — Schemas
 
 JSON Schema definitions for all Stars Reborn game objects and API contracts.
